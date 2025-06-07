@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Collins
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning frontend web developement
+- 👀 I am a web developer
+- 🌱 I’m focus mostly on SaaS developement
 - 💞️ I’m looking to collaborate with other developers
 - 📫 Email me @collinsnkemdilim05@gmail.com
 
